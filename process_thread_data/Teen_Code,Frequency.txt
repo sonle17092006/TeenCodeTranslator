@@ -1,0 +1,307 @@
+Teen_Code,Frequency,Nghĩa (Tiếng Việt chuẩn)
+t,2574,tôi
+t,2574,tao
+ko,1219,không
+k,1161,không
+đc,605,được
+b,567,bạn
+r,527,rồi
+m,422,mày
+m,422,mình
+ng,403,người
+v,356,vậy
+c,316,chị
+c,316,con
+ngta,236,người ta
+kh,229,không
+dc,223,được
+vs,212,với
+mn,183,mọi người
+nma,175,nhưng mà
+lun,170,luôn
+cx,158,cũng
+z,156,vậy
+z,156,thế
+thui,143,thôi
+ck,132,chồng
+ck,132,chuyển khoản
+trc,131,trước
+h,128,giờ
+th,125,thôi
+j,125,gì
+tr,105,trời
+rùi,97,rồi
+cty,91,công ty
+mng,83,mọi người
+bn,78,bao nhiêu
+bn,78,bạn
+bth,73,bình thường
+nhma,71,nhưng mà
+s,68,sao
+cv,67,công việc
+bt,63,biết
+bt,63,bình thường
+n,57,nó
+mk,56,mình
+hông,50,không
+ah,48,à
+ah,48,anh
+ntn,46,như thế nào
+mqh,44,mối quan hệ
+tt,44,thanh toán
+tt,44,trực tiếp
+lm,41,làm
+vk,39,vợ
+nch,37,nói chung
+nch,37,nói chuyện
+thg,37,thằng
+thg,37,thường
+bk,36,biết
+ct,35,công ty
+ct,35,chia tay
+cno,34,chúng nó
+ctay,34,chia tay
+tht,33,thật
+đh,33,đại học
+mik,32,mình
+nc,29,nói chung
+nc,29,nước
+nx,29,nữa
+nx,29,nhận xét
+trg,27,trong
+trg,27,trường
+gđ,27,gia đình
+cmay,27,chúng mày
+tn,27,thế này
+tn,27,tốt nghiệp
+ch,27,chưa
+cs,26,cuộc sống
+đt,25,điện thoại
+ms,25,mới
+cf,24,cà phê
+uh,23,ừ
+ak,23,à
+bh,22,bây giờ
+nv,22,nhân viên
+nv,22,nhân vật
+dth,21,dễ thương
+nhg,20,nhưng
+tgian,20,thời gian
+tk,20,tài khoản
+tk,20,thằng
+kb,20,không biết
+kb,20,kết bạn
+qtrong,19,quan trọng
+zui,19,vui
+kbt,17,không biết
+hqua,17,hôm qua
+g,17,giờ
+g,17,gì
+cm,17,chúng mày
+cm,17,chứng minh
+zô,17,vô
+zị,17,vậy
+ph,16,phải
+p,16,phải
+p,16,phòng
+bthg,16,bình thường
+xog,15,xong
+ngt,15,người ta
+ngkhac,15,người khác
+nt,15,nhắn tin
+nh,15,nhiều
+nh,15,ngân hàng
+cn,15,con
+cn,15,chủ nhật
+nta,15,người ta
+mxh,14,mạng xã hội
+cgi,14,cái gì
+qá,14,quá
+đk,14,được
+đk,14,đăng ký
+zai,14,trai
+hok,14,không
+hok,14,học
+bnh,13,bao nhiêu
+hp,13,hạnh phúc
+hp,13,học phí
+hs,13,học sinh
+hs,13,hồ sơ
+bcuoi,13,buồn cười
+kn,13,kinh nghiệm
+kn,13,kỹ năng
+gd,12,gia đình
+gd,12,giao dịch
+thk,12,thằng
+thk,12,thích
+ik,12,đi
+zậy,12,vậy
+nthe,12,như thế
+ns,11,nói
+kco,11,không có
+trl,11,trả lời
+kp,11,không phải
+hk,11,không
+hk,11,học kỳ
+bme,10,bố mẹ
+ncl,10,nói chung là
+tc,10,tình cảm
+tc,10,tài chính
+hc,10,học
+vd,10,ví dụ
+bb,10,bạn bè
+cnay,10,cái này
+chs,10,chơi
+hnay,10,hôm nay
+hnhu,10,hình như
+nnay,10,như này
+hd,10,hợp đồng
+hd,10,hướng dẫn
+ctrai,10,con trai
+qs,10,quá
+baoh,10,bao giờ
+cbi,10,chuẩn bị
+cj,10,chị
+dr,10,đúng rồi
+sn,9,sinh nhật
+nm,9,nhưng mà
+qtam,9,quan tâm
+ce,9,chị em
+cug,9,cũng
+nvien,9,nhân viên
+cgai,9,con gái
+kbiet,9,không biết
+nhm,9,nhưng mà
+ebe,9,em bé
+qa,8,quá
+qa,8,qua
+đg,8,đang
+đg,8,đường
+đag,8,đang
+vt,8,viết
+vt,8,vậy ta
+zẻ,8,rẻ
+zẻ,8,vui vẻ
+kt,7,kiểm tra
+kt,7,kinh tế
+sdt,7,số điện thoại
+gv,7,giáo viên
+kphai,7,không phải
+ks,7,khách sạn
+ks,7,không sao
+bm,7,bố mẹ
+dt,7,điện thoại
+nnao,7,như nào
+cđm,7,cộng đồng mạng
+thw,7,thương
+khs,7,không hiểu sao
+bik,7,biết
+cb,7,chuẩn bị
+tb,6,trung bình
+tb,6,thông báo
+ntin,6,nhắn tin
+thsu,6,thực sự
+ngkh,6,người khác
+klq,6,không liên quan
+kbh,6,không bao giờ
+vde,6,vấn đề
+nvay,6,như vậy
+qlai,6,quay lại
+xl,6,xin lỗi
+lquan,6,liên quan
+qt,6,quan tâm
+qt,6,quốc tế
+zạ,6,dạ
+lh,6,liên hệ
+ttin,6,thông tin
+ksao,5,không sao
+lgi,5,làm gì
+ktra,5,kiểm tra
+vv,5,vui vẻ
+kg,5,không
+tnao,5,thế nào
+thgian,5,thời gian
+bnhiu,5,bao nhiêu
+wa,5,quá
+bsi,5,bác sĩ
+vđề,5,vấn đề
+ctoi,5,chúng tôi
+đr,5,đúng rồi
+htrc,5,hôm trước
+dv,5,dịch vụ
+mh,5,mình
+mh,5,màn hình
+lunnn,5,luôn
+tcam,5,tình cảm
+shao,5,sao
+gth,5,giải thích
+gth,5,giới thiệu
+cũg,5,cũng
+svien,4,sinh viên
+cgiac,4,cảm giác
+ngk,4,người khác
+snghi,4,suy nghĩ
+bbe,4,bạn bè
+đki,4,đăng ký
+bdau,4,bắt đầu
+zời,4,trời
+nhx,4,những
+hsinh,4,học sinh
+vđe,4,vấn đề
+chn,4,chúng nó
+kthuc,4,kết thúc
+kthuc,4,kiến thức
+jz,4,gì vậy
+dzị,4,vậy
+lsao,4,làm sao
+thik,4,thích
+lq,4,liên quan
+hsau,4,hôm sau
+mìh,4,mình
+cta,4,chúng ta
+zới,4,với
+tik,4,tiktok
+gđinh,4,gia đình
+bgio,3,bao giờ
+uk,3,ừ
+ykr,3,ý kiến riêng
+tsao,3,tại sao
+dko,3,được không
+lmj,3,làm gì
+nchung,3,nói chung
+xloi,3,xin lỗi
+lms,3,làm sao
+dthw,3,dễ thương
+bâyh,3,bây giờ
+qus,3,quá
+đzai,3,đẹp trai
+kte,3,kinh tế
+bnhieu,3,bao nhiêu
+ckhai,3,công khai
+jv,3,gì vậy
+tnh,2,tự nhiên
+skhoe,2,sức khỏe
+hsy,2,hay sao ý
+bâyg,2,bây giờ
+đrui,2,đúng rồi
+dg,2,đang
+csong,2,cuộc sống
+đtrai,2,đẹp trai
+kph,2,không phải
+tnhien,2,tự nhiên
+dzai,2,trai
+đz,2,đẹp trai
+bthan,2,bản thân
+dki,2,đăng ký
+đkien,2,điều kiện
+sđt,2,số điện thoại
+qcao,2,quảng cáo
+dzậy,2,vậy
+tnhan,2,tin nhắn
+gđình,2,gia đình
+đky,2,đăng ký
+zữ,2,dữ
+kqua,2,kết quả
+chtay,2,chia tay
+ank,2,anh
+nka,2,nha
