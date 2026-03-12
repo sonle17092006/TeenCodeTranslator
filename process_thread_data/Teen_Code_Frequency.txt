@@ -1,5 +1,4 @@
-Teen_Code,Frequency,Nghĩa (Tiếng Việt chuẩn)
-t,2574,tôi
+Teen_Code,Frequency,Label
 t,2574,tao
 ko,1219,không
 k,1161,không
