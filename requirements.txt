@@ -1,0 +1,8 @@
+torch
+transformers
+gradio
+pandas
+huggingface_hub
+datasets
+accelerate
+sentencepiece
