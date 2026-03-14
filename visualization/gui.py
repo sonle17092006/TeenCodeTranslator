@@ -98,12 +98,20 @@ body, .gradio-container, .main {
 /* 3. TIÊU ĐỀ PHÁT SÁNG MÀU TÍM HỒNG (MAGENTA) */
 #main-title {
     text-align: center;
-    color: #ff00ff !important;
-    font-size: 2.5em;
+    /* Đổi màu chữ sang trắng bạc sáng */
+    color: #ffffff !important; 
+    font-size: 2.8em;
     font-weight: 900;
-    text-shadow: 0 0 15px #ff00ff, 0 0 5px #ffffff;
-    margin-bottom: 5px;
-    letter-spacing: 3px;
+    /* Hiệu ứng tỏa sáng Neon Tím rực rỡ */
+    text-shadow: 
+        0 0 5px #fff, 
+        0 0 10px #fff, 
+        0 0 20px #ff00ff, 
+        0 0 30px #ff00ff, 
+        0 0 40px #ff00ff;
+    margin-bottom: 10px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
 }
 
 /* 4. Ô NHẬP LIỆU: NỀN TÍM ĐẬM, VIỀN CYAN PHÁT SÁNG */
