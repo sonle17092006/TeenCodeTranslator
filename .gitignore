@@ -1,0 +1,45 @@
+# ==========================================
+# 1. BỘ NHỚ AI & MÔ HÌNH (CỰC KỲ QUAN TRỌNG)
+# ==========================================
+# Không bao giờ push file model nặng lên GitHub
+outputs/
+checkpoint-*/
+runs/
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.h5
+*.ot
+
+# ==========================================
+# 2. DỮ LIỆU NHẠY CẢM & FEEDBACK
+# ==========================================
+# File lưu trữ data người dùng nhập vào web
+feedback_data.csv
+# File chứa API Key hoặc Token (nếu sau này bạn có dùng)
+.env
+
+# ==========================================
+# 3. FILE RÁC CỦA PYTHON & JUPYTER NOTEBOOK
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# ==========================================
+# 4. MÔI TRƯỜNG ẢO (VIRTUAL ENVIRONMENTS)
+# ==========================================
+venv/
+env/
+.venv/
+conda-env/
+
+# ==========================================
+# 5. CẤU HÌNH IDE & HỆ ĐIỀU HÀNH
+# ==========================================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
